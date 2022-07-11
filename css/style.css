@@ -620,8 +620,6 @@ body {
     padding-bottom: 10px;
 
     text-decoration: none;
-}
-.send-link p{
     margin: 0;
     font-weight: 700;
     font-size: 16px;
@@ -630,9 +628,8 @@ body {
     text-align: center;
     letter-spacing: 0.06em;
     color: var(--hero-text-color);
-    
-
 }
+
 .icon-send{
     margin-left: 10px;
     width: 24px;
